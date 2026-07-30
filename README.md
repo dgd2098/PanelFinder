@@ -24,7 +24,7 @@ Android 환경에서 최적화된 3D BIM 모델을 확인할 수 있도록 개�
 
 <p align="center">
 
-&#x20; <img src="Docs/Images/IfcCreate.gif" width="900">
+&#x20; <img src="Docs/Images/IfcCreate.gif" width="300">
 
 </p>
 
