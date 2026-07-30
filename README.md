@@ -62,5 +62,7 @@ Android 환경에서 최적화된 3D BIM 모델을 확인할 수 있도록 개�
 
 
 \- Loading Time : 4.7s → 1.2s
+
 \- Draw Calls : 7,719 → 1,585
+
 \- FPS : 15.9 → 31.1
