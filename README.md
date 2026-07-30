@@ -22,7 +22,7 @@ Android 환경에서 최적화된 3D BIM 모델을 확인할 수 있도록 개�
 
 \- IFC → GLB 변환
 
-!\[PanelFinder Demo](Docs/Images/ifc생성.gif)
+!\[PanelFinder Demo](Docs/Images/IfcCreate.gif)
 
 \- Android BIM Viewer
 
