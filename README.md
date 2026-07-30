@@ -6,7 +6,7 @@ Unity 기반 BIM Viewer 프로젝트입니다.
 
 
 
-\## 📌 Overview
+\##  Overview
 
 
 
@@ -16,11 +16,13 @@ Android 환경에서 최적화된 3D BIM 모델을 확인할 수 있도록 개�
 
 
 
-\## ✨ Features
+\##  Features
 
 
 
 \- IFC → GLB 변환
+
+!\[PanelFinder Demo](Docs/Images/ifc생성.gif)
 
 \- Android BIM Viewer
 
@@ -34,7 +36,7 @@ Android 환경에서 최적화된 3D BIM 모델을 확인할 수 있도록 개�
 
 
 
-\## 🛠 Tech Stack
+\##  Tech Stack
 
 
 
